@@ -1,0 +1,11 @@
+instapaper:
+    links:
+        name: Links
+        description: Pages you saved
+        html_form: '[_1] saved <a href="[_2]">[_3]</a> to read later'
+        html_params:
+            - url
+            - title
+        url: http://www.instapaper.com/rss/{{ident}}
+        identifier: url
+        rss: 1

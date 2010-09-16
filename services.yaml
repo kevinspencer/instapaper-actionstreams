@@ -1,0 +1,4 @@
+instapaper:
+    name: Instapaper
+    ident_hint: Your userid identifier is found by looking that the RSS URL in the bottom right of the page when logged into instapaper (i.e 840089/KsdadgadHHkadlfjasd
+    url: http://www.instapaper.com/rss/{{ident}}

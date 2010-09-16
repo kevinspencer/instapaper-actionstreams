@@ -1,0 +1,21 @@
+instapaper-actionstreams
+------------------------
+
+Adds instapaper support to Movable Type's Action Streams plugin.
+
+Installation
+------------
+
+Add the contents of streams.yaml to your /cgi-bin/plugins/ActionStreams/streams.yaml file.
+
+Add the contents of services.yaml to your /cgi-bin/plugins/ActionStreams/services.yaml file.
+
+Add the contents of action-streams.css to your /mt-static/plugins/ActionStreams/css/action-streams.css file.
+
+Configuration
+-------------
+
+Your instapaper user id can be found when hovering over the RSS feed link
+while logged into your account.  It will be something like 80499/JJddhLLjlksdf.
+
+
